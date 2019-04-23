@@ -1,8 +1,8 @@
-# NLTK testing
+#NLTK testing
 running a docker image with nltk and python already setup
 
-## Build
+##Build
 `make build`
 
-## Running
+##Running
 `make`
