@@ -1,8 +1,13 @@
-#NLTK testing
-running a docker image with nltk and python already setup
+#Psychic Telegram
+This project tries to extract meaning out of SLA's
+It is really a testing ground for nlp, using the issue of reading SLA's, Terms of services, etc.
 
-##Build
+Essentially the vision is to look for non-boilerplate text and highlight it to the user. 
+
+
+
+##Build the docker image
 `make build`
 
-##Running
+##Running the docker image
 `make`
